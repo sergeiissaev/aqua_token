@@ -1,0 +1,19 @@
+{
+  "name": "aqua_token",
+  "version": "1.0.0",
+  "description": "Code for AQUA token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeiissaev/aqua_token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeiissaev/aqua_token/issues"
+  },
+  "homepage": "https://github.com/sergeiissaev/aqua_token#readme"
+}
